@@ -28,7 +28,7 @@ Usage:
         $ pip install -r requirements.txt
         $ python myapp.py
 
- - Go to http://127.0.0.1:5000/ in the browser.
+ - Go to localhost:5000/ in the browser.
  - Enter george for the username and george for the password.
  - Click the mouse to prolong the session.
  - Wait several seconds for the warning modal to show up.
